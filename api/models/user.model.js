@@ -17,7 +17,7 @@ const userSchema = new mongoose.Schema({
     },
     avatar: {
         type: String,
-        default: "https://img1.pnghut.com/17/13/23/QmMUHXb6nW/avatar-login-symbol-black-and-white-share-icon.jpg"
+        default: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
         
     },
 },
